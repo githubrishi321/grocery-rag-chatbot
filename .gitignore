@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment variables (keep .env.example)
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
